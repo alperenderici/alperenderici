@@ -53,17 +53,19 @@
 </form>
 
 <!-- JavaScript Code -->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="https://www.google.com/recaptcha/enterprise.js?render=6LcioEUmAAAAAJXn4RcnA5jb3Ki6n4AEMm0Xz5HQ"></script>
 <script>
     function submitForm() {
-        document.querySelector('form').submit();
-    }
+        grecaptcha.enterprise.ready(function() {
+            grecaptcha.enterprise.execute('6LcioEUmAAAAAJXn4RcnA5jb3Ki6n4AEMm0Xz5HQ', { action: 'submit' }).then(function(token) {
+                var formData = new FormData(document.querySelector('form'));
+                formData.append('recaptcha_token', token);
 
-    window.onload = function() {
-        var el = document.getElementById('g-recaptcha-response');
-        if (el) {
-            el.setAttribute('required', 'required');
-        }
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', 'https://formspree.io/f/mwkzoqke');
+                xhr.send(formData);
+            });
+        });
     }
 </script>
 </div>
