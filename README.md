@@ -1,7 +1,11 @@
 <h1 align="center">Hi 🖖, I'm Ali Alperen Derici</h1>
 
 - 🚀 I’m currently working with **Flutter**
+    - Riverpod, Repository Pattern, Freezed
 - ⛵️ I’m currently learning **React**
+    - Redux, Hooks, TailwindCSS
+- 🔮 I' wish the learn IOS native in close future.
+    - Swift, Swiftui & UIKit
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/alperenderici?tab=repositories) or [here](https://alialperenderici.dev/jobExperiences.html)
 
