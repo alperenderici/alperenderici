@@ -7,7 +7,7 @@ I turn startup ideas into production-ready products using clean architecture, sc
 
 🚀 **Mobile & Web Development**
 - **Cross-Platform**: Flutter (mobile & web)
-- **State Management**: Riverpod, Riverpod Hooks, Bloc, Cubit, Cubit, GetX, Provider
+- **State Management**: Riverpod, Riverpod Hooks, Bloc, Cubit, GetX, Provider
 - **Architecture**: Clean Architecture, Domain-Driven Design, MVVM, Repository Pattern, Freezed
 - **Plugin Development**: Native Android plugin integration using MethodChannel
 - **CI/CD**: GitHub Actions, Codemagic
@@ -18,24 +18,21 @@ I turn startup ideas into production-ready products using clean architecture, sc
 - API integrations with Axios, Firebase, Supabase, and Google APIs
 
 🧠 **AI & System Design**
-- AI-enhanced workflows: GitHub Copilot, ChatGPT, Cursor IDE
+- AI-enhanced workflows: GitHub Copilot, Claude Code, ChatGPT, Cursor IDE
 - Experience with clean architecture, automated testing, and layered architectures
 
 ☁️ **Backend & Data**
-- **Supabase** (Auth, Storage, Edge Functions, Realtime DB, SQL Snippets, Role-based access control, Row-level security, Supabase CLI)
-- **Firebase** (Auth, Firestore, TypeScript cloud functions, FCM Messaging, Firebase CLI, Analytics)
+- **Supabase** (Auth, Storage, Edge Functions, Realtime DB)
+- **Firebase** (Auth, Firestore, TypeScript cloud functions, FCM Messaging, Analytics)
 - RESTful APIs · WebSockets · Hive · SQLite
-
-🛠 **Other Tools & Environments**
-- DevOps: Git, GitHub, Bitbucket, Jira, Postman
-- Design: Figma, Notion, Confluence
-- Languages: Dart, TypeScript, JavaScript, Java, Kotlin, Python
 
 ---
 
 📌 **Notable Projects**
 - **Kanguru** – TÜBİTAK-funded child-tracking platform (Flutter, Supabase, Native Android plugins)
-- **Fitgo** – Fitness MVP (Flutter, Supabase, Riverpod Hooks)
+- **[Train One](https://tra1none.com/)** – Co-founded fitness platform; MVP connecting trainers & users via personalized digital coaching (Flutter, Supabase, DDD)
+- **WellNow (Geo Spor)** – Flutter/Firebase wellness suite: [WellNow](https://wellnowapp.com/) ([App Store](https://apps.apple.com/us/app/wellnow/id6755144384)) – gym & spa discovery & booking; Fabrika Mensa – industrial site tenant management; Party Planner – event planning app
+- **[Analog Buddy](https://apps.apple.com/tr/app/analog-buddy/id6760268456)** – iOS companion app for film photographers: light metering, frame tracking, negative scanning & GPS shot logging
 - **To Do for ADHD** – AI-enhanced productivity app rebuilt with Flutter (RevenueCat, Meta, Superwall)
 - **QR Platform** – Next.js + Tailwind web app for industrial document access via QR codes
 - **Hygge Fortune App** – Spin wheel app for user engagement built with React JS & Firebase
@@ -44,9 +41,19 @@ I turn startup ideas into production-ready products using clean architecture, sc
 
 👨‍💻 Explore all my projects on [GitHub](https://github.com/alperenderici?tab=repositories) or [my portfolio](https://alialperenderici.dev/)
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alperenderici&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=alperenderici&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenderici&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 <h3 align="left">Get in touch:</h3> 
 <p align="left"> 
-  <a href="https://twitter.com/grandealperen" target="blank">
+  <a href="https://x.com/grandealperen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grandealperen" height="30" width="40" />
   </a> 
   <a href="https://linkedin.com/in/alperenderici" target="blank">
